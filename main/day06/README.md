@@ -9,7 +9,7 @@ Let us start with the Permissions.
 
 1. Create a simple file and do `ls -ltr`
 
-Each of the three permissions are assigned to three defined categories of users. The categories are:
+   Each of the three permissions are assigned to three defined categories of users. The categories are:
 
 - owner — The owner of the file or application.
 - "chown" is used to change the ownership permission of a file or directory.
