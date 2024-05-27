@@ -1,6 +1,6 @@
-## Day 02 - Basics linux commands :
+## Day 02 - Basics Linux Commands :
 
-Task: What is the linux command to :
+Task - What is the linux command to :
 
 1. Check your present working directory.
 2. List all the files or directories including hidden files.
