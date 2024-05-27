@@ -1,6 +1,6 @@
-Day 3 Task: Basic Linux Commands
+## Day 03 - Basic Linux Commands :
 
-Task: What is the linux command to
+Task : What is the linux command to :
 
 1. To view what's written in a file.
 2. To change the access permissions of files.
@@ -13,7 +13,5 @@ Task: What is the linux command to
 9. To create another file Colors.txt and to view the content.
 10. Add content in Colors.txt (One in each line) - Red, Pink, White, Black, Blue, Orange, Purple, Grey.
 11. To find the difference between fruits.txt and Colors.txt file.
-
-Reference: https://www.linkedin.com/pulse/linux-commands-devops-used-day-to-day-activit-chetan-/
 
 [← Previous Day](../day02/README.md) | [Next Day →](../day04/README.md)
