@@ -1,6 +1,6 @@
-## Day 03 - Basic Linux Commands :
+# Day 03 - Basic Linux Commands :
 
-Task - What is the linux command to :
+## Task - What is the linux command to :
 
 1. To view what's written in a file.
 2. To change the access permissions of files.
