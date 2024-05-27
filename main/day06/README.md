@@ -1,4 +1,4 @@
-# Day 6 - File Permissions and Access Control Lists :
+# Day 06 - File Permissions and Access Control Lists :
 
 ### Today is more on Reading, Learning and Implementing File permissions :
 
@@ -21,8 +21,6 @@ Each of the three permissions are assigned to three defined categories of users.
   As a task, change the user permissions of the file and note the changes after `ls -ltr`
 
 2. Write an article about File Permissions based on your understanding from the notes.
-
-3. Read about ACL and try out the commands `getfacl` and `setfacl`
 
 Happy Learning .. :)
 
