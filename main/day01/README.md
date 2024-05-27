@@ -1,4 +1,4 @@
-## Day 1 - Introduction :
+## Day 01 - Introduction :
 
 This is the day you have to Take this challenge and start your #90_Days_Of_DevOps.
 
