@@ -1,4 +1,4 @@
-# Day 4 Task: Basic Linux Shell Scripting for DevOps Engineers.
+# Day 04 - Basic Linux Shell Scripting :
 
 ## What is Kernel
 
@@ -26,6 +26,6 @@ Was it difficult?
 
 Article Reference: [Click here to read basic Linux Shell Scripting](https://devopscube.com/linux-shell-scripting-for-devops/)
 
-YouTube Video: [EASIEST Shell Scripting Tutorial for DevOps Engineers](https://www.youtube.com/watch?v=_-D6gkRj7xc&list=PLlfy9GnSVerQr-Se9JRE_tZJk3OUoHCkh&index=3)
+YouTube Video: [Bash Scripting Tutorial for DevOps Engineers](https://www.youtube.com/playlist?list=PLT98CRl2KxKGj-VKtApD8-zCqSaN2mD4w)
 
 [← Previous Day](../day03/README.md) | [Next Day →](../day05/README.md)
