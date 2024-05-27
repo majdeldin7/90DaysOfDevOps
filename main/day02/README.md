@@ -8,6 +8,6 @@
 
 Note: [Check this file for reference](solution.md)
 
-Check the basic_linux_commands.md file on the same directory day02.
+Check the solution.md file on the same directory day02.
 
 [← Previous Day](../day01/README.md) | [Next Day →](../day03/README.md)
