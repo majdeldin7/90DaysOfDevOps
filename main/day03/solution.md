@@ -27,6 +27,8 @@
 5. To create a fruits.txt file and to view the content.
     
     - ``` vim fruits.txt ``` 
+
+
     - ``` cat fruits.txt ``` 
 
  
